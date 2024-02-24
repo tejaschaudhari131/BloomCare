@@ -2,6 +2,8 @@
     /static
         /css
             style.css
+    /instance
+            site.db
     /templates
         layout.html
         register.html
