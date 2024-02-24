@@ -1,0 +1,10 @@
+/bloomcare
+    /static
+        /css
+            style.css
+    /templates
+        layout.html
+        register.html
+        login.html
+        home.html
+    app.py
